@@ -1,4 +1,4 @@
-# DsDemo
-This is my first Git Repository.
+# Ds-Demo
+This is my first Git Repository in Git.
 <br>
-Author - Sumit
+Author - Sumit 
